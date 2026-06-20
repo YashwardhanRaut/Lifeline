@@ -1,0 +1,3 @@
+batch,baseline_cumulative_success_pct,baseline_first_batch_targeted_total,baseline_first_batch_targeted_success,shaduf_cumulative_success_pct,shaduf_first_batch_targeted_total,shaduf_first_batch_targeted_success,lifeline_only_cumulative_success_pct,lifeline_only_first_batch_targeted_total,lifeline_only_first_batch_targeted_success,lifeline_5050_cumulative_success_pct,lifeline_5050_first_batch_targeted_total,lifeline_5050_first_batch_targeted_success,lifeline_actual_cumulative_success_pct,lifeline_actual_first_batch_targeted_total,lifeline_actual_first_batch_targeted_success
+1,27.0,461.0,185.0,26.700000000000003,461.0,182.0,27.1,461.0,186.0,27.1,461.0,186.0,27.1,461.0,186.0
+2,27.35,,,27.1,,,27.450000000000003,,,30.349999999999998,,,27.450000000000003,,
